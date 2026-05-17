@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a third-year Mechanical Engineering student at
 ## 👨‍💻 About Me
 
 * **🎓 Current Education:** B.Tech. at IIT Indore
-* **💡 Interests:** Machine Learning, Quantitative Finance, Applied Cryptography, Algorithmic Trading, and Competitive Programming.
+* **💡 Interests:** Machine Learning, Quantitative Finance, Algorithmic Trading, and Competitive Programming.
 * **🎯 Current Focus:** Building ML applications, backend systems, and exploring blockchain development.
 
 ---
